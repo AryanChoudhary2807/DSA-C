@@ -28,7 +28,7 @@ int  peek(){
 }
 
 int main() {
-    // Write C code here
+    
     printf("Stack\n");
     
     push(3);
