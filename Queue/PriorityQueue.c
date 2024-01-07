@@ -57,14 +57,14 @@ void display(){
 
 int main(){
     printf(" Priority Queue\n");
-int ch;
+     int choice;
     do{
             printf("Menu\n");
     printf("1.insert \n 2.display \n");
     
     printf("Enter your choice:");
-    scanf("%d",&ch);
-    switch(ch){
+    scanf("%d",&choice);
+    switch(choice){
         case 1: insert();
         break;
         case 2: display();
@@ -73,7 +73,7 @@ int ch;
     }
     
     }
-    while(ch<3);
+    while(choice<3);
     
     return;
 }
