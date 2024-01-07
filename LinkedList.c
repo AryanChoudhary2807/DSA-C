@@ -100,7 +100,7 @@ struct node *reverse(struct node *head){
 
 
 int main() {
-    // Write C code here
+    
     printf("Linked List\n");
     
    addlast(4);
