@@ -36,7 +36,7 @@ int peek(){
 
 
 int main() {
-    // Write C code here
+    
     printf("Queue\n");
     insert(1);
     insert(2);
