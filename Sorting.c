@@ -128,7 +128,7 @@ int partition(int a[] , int low , int high){
 
 
 int main() {
-    // Write C code here
+    
     int a[]={7,8,5,6,4,3,2,1};
     int n = sizeof(a)/4;
      
